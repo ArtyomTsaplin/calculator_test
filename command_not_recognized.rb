@@ -1,0 +1,2 @@
+class CommandNotRecongnized < Exception
+end
